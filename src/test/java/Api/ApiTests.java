@@ -1,6 +1,5 @@
 package Api;
 
-import TestBase.TestBaseApi;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.api.Test;
